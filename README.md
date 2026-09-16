@@ -26,6 +26,12 @@
 
 The dashboard provides an interactive interface to explore portfolio holdings, investment history, mutual funds, dividends, valuations, and profit-and-loss metrics.
 
+<img width="1916" height="814" alt="snapshot1" src="https://github.com/user-attachments/assets/6196efcf-2894-4e1a-8f81-49276dd6415d" />
+
+<img width="1916" height="814" alt="snapshot2" src="https://github.com/user-attachments/assets/656d692a-fdfa-444f-a809-216171301d85" />
+
+<img width="1916" height="814" alt="snapshot3" src="https://github.com/user-attachments/assets/495a0742-15ff-4719-b0ab-a78d3d513e59" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 Overview
