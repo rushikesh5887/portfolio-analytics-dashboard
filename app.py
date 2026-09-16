@@ -8,7 +8,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from babel.numbers import format_decimal
 
 
 # For Indian Numbering Format
