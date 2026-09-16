@@ -1,4 +1,4 @@
-> **Interactive, data-driven portfolio analytics and decision-support dashboard built with Python and Streamlit.** click here
+> **Interactive, data-driven portfolio analytics and decision-support dashboard built with Python and Streamlit.** 
 >
 > Built an end-to-end analytical application that transforms transaction-level investment records into portfolio valuation, allocation, profit-and-loss, dividend, mutual fund, and historical investment insights.
 >
@@ -22,7 +22,8 @@
 
 ## 🚀 Live Application
 
-### [Interactive Portfolio Analytics Dashboard](https://ra-portfolio-analytics.streamlit.app)
+### [Interactive Portfolio Analytics Dashboard](https://ra-portfolio-analytics.streamlit.app) 
+>Click on the link above to experience it live.
 
 The dashboard provides an interactive interface to explore portfolio holdings, investment history, mutual funds, dividends, valuations, and profit-and-loss metrics.
 
